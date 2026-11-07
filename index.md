@@ -15,5 +15,6 @@ I would like to analyze which features in transaction history, such as spending 
 I would have prioritized identifying spending patterns and creditworthiness earlier, and treated categorization as a means to that goal rather than an end in itself. I would also have used LLMs sooner to streamline categorization and fail fast, rather than spending a long time on an approach that wasn’t working.
 
 **4. What other techniques would you be interested in using in your project?**
+
 I would like to compare zero-shot and few-shot LLM classification against fastText on a labeled sample of transactions, measuring accuracy, runtime, and cost, to determine whether LLMs are worth their added expense for categorization.
 Since our transaction dataset consists of billions of rows, I would use LLMs to create a large enough training set for fastText to then label the rest of the transactions.
