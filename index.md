@@ -1,9 +1,10 @@
 # DSC 180A Methodology Assignment 4
 ## Michael Petersen m1petersen@ucsd.edu
-## NLP Credit Scoring - Goutham Valeti
+### Section: NLP Credit Scoring 
+### Mentor: Goutham Valeti
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-The use of fastText to categorize transactions based on raw memos (text).Training a model to assign spending categories from raw transaction memos is fascinating because it can process millions of transactions quickly and accurately.
+The use of fastText to categorize transactions based on raw memos (text). Training a model to assign spending categories from raw transaction memos is fascinating because it can process millions of transactions quickly and accurately.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
