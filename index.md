@@ -1,6 +1,6 @@
 # DSC 180A Methodology Assignment 4
 ## Michael Petersen m1petersen@ucsd.edu
-## Section: NLP Credit Scoring 
+## Section: D12 - NLP Credit Scoring 
 ## Mentor: Goutham Valeti
 
 **1. What is the most interesting topic covered in your domain this quarter?**
